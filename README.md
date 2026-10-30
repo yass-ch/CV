@@ -19,3 +19,17 @@ Curriculum Vitae - Yassine Chaouch - Data Science & Full-Stack Developer
 - Intégration du modèle dans des pipelines applicatifs et exploration de solutions RAG / fine-tuning pour des cas métier ciblés.
 - Outils / stack : Python, Hugging Face, LangChain, Ollama, FastAPI, Docker, GPU/CPU inference.
 
+### 3) Plateforme de données & gouvernance – 2026
+- Conception et mise en œuvre d’une plateforme de données centralisée pour intégrer, standardiser et sécuriser les flux d’information.
+- Mise en place de modèles de qualité, catalogage des données et traçabilité des sources afin de renforcer la gouvernance et la confiance dans l’information.
+- Automatisation des contrôles de conformité, alertes et tableaux de bord pour suivre la fiabilité des indicateurs métiers.
+- Collaboration avec les équipes business et IT pour optimiser les process de collecte, transformation et publication des données.
+- Outils / stack : SQL, Python, dbt, Airflow, Databricks, Power BI, Azure / GCP.
+
+### 4) Assistant IA pour l’automatisation des processus – 2026
+- Développement d’un assistant intelligent orienté business pour automatiser la collecte, le tri et la synthèse des informations.
+- Conception de workflows RAG et d’outils d’aide à la décision couplés à des modèles open-source pour accélérer les tâches répétitives.
+- Intégration de l’IA dans les processus internes afin de réduire le temps de traitement et d’améliorer la productivité des équipes.
+- Mise en place d’API, services backend et interfaces utilisateur pour rendre les solutions exploitable en production.
+- Outils / stack : Python, FastAPI, LangChain, Ollama, PostgreSQL, Docker, Mistral / modèles open-source.
+
